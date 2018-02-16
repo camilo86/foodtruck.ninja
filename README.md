@@ -2,6 +2,9 @@
 
 Are you tired of eating the same thing over and over again? Well guess what, its food truck time! Easily explore the many hidden food trucks around your city like a ninja 🤺🤺🤺
 
+***Note from author:*** 
+>**foodtruck.ninja is at its very early stages of development** so do not expect it to be fully functional (for now of course). That being said, if you would like to help develop, please do!
+
 ## Getting Started
 
 If you just want to become a food truck ninja, head over to [foodtruck.ninja](https://www.foodtruck.ninja) to recieve your first food belt (See what I did there? 😎)
