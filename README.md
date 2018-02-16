@@ -1,4 +1,4 @@
-# Food Truck Ninja
+# Food Truck Ninja 🌭🌮🍔🥙🤺
 
 Are you tired of eating the same thing over and over again? Well guess what, its food truck time! Easily explore the many hidden food trucks around your city like a ninja 🤺🤺🤺
 
@@ -6,7 +6,7 @@ Are you tired of eating the same thing over and over again? Well guess what, its
 
 If you just want to become a food truck ninja, head over to [foodtruck.ninja](https://www.foodtruck.ninja) to recieve your first food belt (See what I did there? 😎)
 
-If you are a code monkey, then please sit down and keep reading. You code money better be ready to develop in JS (hold your breath) as this is a full JavaScript stack (react, mongodb & node).
+If you are a code monkey, then please sit down and keep reading. You code money better be ready to develop in JS (hold your breath) as this is a full JavaScript stack application (react, mongodb & node).
 
 ### Prerequisites
 
@@ -45,6 +45,10 @@ To keep your monkey fingers from writting bananas, this project uses `eslint`. C
 ```
 npm run lint
 ```
+
+## Additional information
+
+In case you are wondering where to find the *"backend"*, checkout the REST API project [api.foodtruck.ninja](https://github.com/camilo86/api.foodtruck.ninja) here on GitHub! 🤓
 
 ## License
 
