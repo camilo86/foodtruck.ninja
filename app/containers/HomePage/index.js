@@ -10,15 +10,19 @@
  */
 
 import React from 'react';
-import { FormattedMessage } from 'react-intl';
-import messages from './messages';
+import { Menu, Input } from 'semantic-ui-react';
 
 export default class HomePage extends React.PureComponent { // eslint-disable-line react/prefer-stateless-function
   render() {
     return (
-      <h1>
-        <FormattedMessage {...messages.header} />
-      </h1>
+      <Menu size='huge' stackable>
+        <Menu.Item header>Food Truck Ninja</Menu.Item>
+        <Menu.Menu position='right'>
+          <Menu.Item>
+            <Input action={{ icon: 'search' }} placeholder='Search for food trucks' />
+          </Menu.Item>
+        </Menu.Menu>
+      </Menu>
     );
   }
 }
