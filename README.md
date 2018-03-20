@@ -15,7 +15,7 @@ If you are a code monkey, then please sit down and keep reading. You code money 
 
 Alright code monkey, this is what you need to get installed in your monkey machine:
 
-- NodeJS 8 or above
+- NodeJS 8.10 or above
 - NPM  5.6 or above
 - A good web browser (aka Google Chrome)
 
